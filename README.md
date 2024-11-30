@@ -25,10 +25,7 @@ This repository contains the **cracked source code** of **Intave**, a robust Min
 
 ## 🚀 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/Intave-SRC-Code-by-Eselfins.git
-   ```
+1. Download the release https://github.com/Eselfin31/Intave-SRC-Code-by-Eselfins/releases/tag/Release
 2. Build the project using your preferred build tool (e.g., Maven or Gradle).
 3. Integrate the code into your Minecraft server and customize as needed.
 4. Test thoroughly before deploying in production.
@@ -60,5 +57,5 @@ Contributions are welcome! If you have improvements, optimizations, or additiona
 
 ## 💬 Contact
 
-For questions or discussions, feel free to open an issue or contact [Eselfins](#).  
+For questions or discussions, feel free to open an issue or contact [Me](https://github.com/Eselfin31).  
 Let’s improve and innovate responsibly! 🌟

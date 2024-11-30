@@ -1,6 +1,3 @@
-Here's a clean and professional README template for your project. Make sure to customize it as needed to reflect your intentions and clarify the legality or purpose of sharing this content.
-
----
 
 # Intave-SRC-Code-by-Eselfins
 
@@ -41,9 +38,7 @@ This repository contains the **cracked source code** of **Intave**, a robust Min
 ## 📂 Project Structure
 Here's a quick overview of the project's main components:
 
-- `src/main` - The source code files.
-- `config` - Configuration files for Intave.
-- `docs` - Documentation explaining the anticheat's features and setup.
+- `de/jpx3/invate` - The source code files.
 
 ---
 
@@ -67,7 +62,3 @@ Contributions are welcome! If you have improvements, optimizations, or additiona
 
 For questions or discussions, feel free to open an issue or contact [Eselfins](#).  
 Let’s improve and innovate responsibly! 🌟
-
----
-
-If this looks good, let me know, or feel free to suggest tweaks! 😊

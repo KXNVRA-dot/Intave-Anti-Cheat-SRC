@@ -2,7 +2,7 @@
 # Intave-Anti-Cheat-SRC
 
 ![Minecraft Anticheat](https://img.shields.io/badge/Minecraft-Anticheat-green)  
-*A repository featuring the source code of the Minecraft anticheat, **Intave**, cracked by Eselfins.*
+*A repository featuring the source code of the Minecraft anticheat, **Intave**
 
 ---
 
